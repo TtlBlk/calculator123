@@ -1,6 +1,9 @@
 ﻿
 // MFCApplication1.cpp: определяет поведение классов для приложения.
 //
+// 
+//
+
 
 #include "stdafx.h"
 #include "MFCApplication1.h"
