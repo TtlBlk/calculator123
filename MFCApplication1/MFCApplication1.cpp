@@ -10,7 +10,6 @@
 #include "MFCApplication1Dlg.h"
 //
 
-//-__-\\
 #ifdef _DEBUG
 #define new DEBUG_NEW
 #endif
